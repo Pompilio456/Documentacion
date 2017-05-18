@@ -22,9 +22,9 @@ Este programa se compone principalmente de 4 proyectos que seran descritos mas a
 ## flujo de trabajo
 ![alt text][Flujo de trabajo]
 
-[Flujo de trabajo]: (/Flujo de trabajo.jpg) "Flujo de trabajo"
+[Flujo de trabajo]: (/Flujo%20de%20trabajo.jpg) "Flujo de trabajo"
 
-![alt text](/Flujo de trabajo.png)
+![alt text](/Flujo%20de%20trabajo.png)
 
 
 ## Observaciones generales
